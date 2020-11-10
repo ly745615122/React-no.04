@@ -1,0 +1,93 @@
+{
+  "id": "2124024",
+  "name": "淘宝",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577329",
+      "name": "标星-fill",
+      "font_class": "biaoxingfill",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "577330",
+      "name": "标星",
+      "font_class": "biaoxing",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "577334",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "13986807",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1467415",
+      "name": "taobao",
+      "font_class": "taobao2",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "10747022",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1274428",
+      "name": "icon_taobao",
+      "font_class": "taobao1",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "17446806",
+      "name": "淘宝",
+      "font_class": "taobao",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "577341",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "1393662",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "4550493",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "6554427",
+      "name": "订单列表",
+      "font_class": "dingdanliebiao",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    }
+  ]
+}
